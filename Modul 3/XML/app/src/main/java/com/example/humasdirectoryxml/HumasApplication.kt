@@ -1,4 +1,4 @@
 package com.example.humasdirectoryxml
 
-class ProkerAdapter {
+class HumasApplication {
 }
